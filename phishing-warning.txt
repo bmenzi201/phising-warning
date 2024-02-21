@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Phishing Warning</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="warning-container">
+    <h2>Phishing Warning!</h2>
+    <p>You have clicked on a phishing email link.</p>
+    <p>Please complete the Cybersecurity Awareness Training Program to learn how to identify and avoid phishing attacks.</p>
+    <a href="https://yourtrainingprogram.com" target="_blank" class="btn">Cybersecurity Training Program</a>
+  </div>
+</body>
+</html>
